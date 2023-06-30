@@ -6,6 +6,7 @@
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
+![image](https://github.com/CarlosVanzego/azure-network-protocols/assets/129208650/c2931ff1-ae2f-4030-8f89-4be14a89593c)
 
 
 <h2>Environments and Technologies Used</h2>
