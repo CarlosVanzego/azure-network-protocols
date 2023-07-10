@@ -23,10 +23,11 @@ This project involves the observation of network traffic to and from Azure Virtu
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Set up a monitoring environment by configuring a separate virtual machine (VM) to install and configure Wireshark.
+- Navigate to the Network Security Group (NSG) resource associated with the target Azure VM(s) to experiment with NSG rules.
+- Use Wireshark to capture network traffic by selecting the appropriate network interface on the monitoring VM.
+- Analyze the captured packets in real-time or save them for later analysis, leveraging Wireshark's features and filters.
+- Modify NSG rules in the Azure portal and observe the impact on network traffic captured by Wireshark to experiment and fine-tune network security policies.
 
 <h2>Actions and Observations</h2>
 
